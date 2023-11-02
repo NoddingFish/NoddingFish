@@ -16,7 +16,7 @@
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=NoddingFish&theme=vue-dark&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoddingFish&theme=vue-dark&layout=compact">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=NoddingFish&repo=my-now-blog&theme=dark">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=NoddingFish&repo=docsify-technical-note&theme=dark">
 
 <!--
 **NoddingFish/NoddingFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
