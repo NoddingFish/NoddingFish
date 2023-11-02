@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!-- Label -->
+![PHP](https://img.shields.io/badge/php-7.2-blue?logo=php&logoColor=blue)
+![Hyperf](https://img.shields.io/badge/Hyperf-3.0-blue)
+
 <a href="https://github.com/NoddingFish">
 
   <p align="center">
